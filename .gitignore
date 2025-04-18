@@ -1,0 +1,8 @@
+/env/
+/data/
+*.zip
+*.pdf.env
+.env
+
+
+
